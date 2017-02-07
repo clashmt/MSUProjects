@@ -215,3 +215,6 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 
+C:\Users\michael\PycharmProjects\MSUProjects\.idea
+*.xml
+.idea/MSUProjects.iml
